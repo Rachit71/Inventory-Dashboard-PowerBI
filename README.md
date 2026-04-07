@@ -25,5 +25,5 @@ The dashboard provides meaningful insights to support data-driven decision makin
 <img width="1284" height="722" alt="Screenshot 2026-03-02 214234" src="https://github.com/user-attachments/assets/eee2a94b-788c-49e2-a974-20a2d4e25ab8" />
 
 
-## 🚀 Author
-Rachit Vyas
+## 🚀  Author
+Rachit Vyas 
